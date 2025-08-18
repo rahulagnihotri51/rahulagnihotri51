@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1JxM/giphy.gif" alt="A cool banner showing a coding animation"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1JxM/giphy.gif](https://github.com/rahulagnihotri51/rahulagnihotri51/blob/main/%C2%ABCLOUDS%C2%BB%202D%20VFX%20Animation,%20Ivan%20Boyko.gif?raw=true)" alt="A cool banner showing a coding animation"/>
 </p>
 
 <div id="user-content-toc">
