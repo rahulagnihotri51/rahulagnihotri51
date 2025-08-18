@@ -1,20 +1,16 @@
 <p align="center">
-  <img src="https://i.imgur.com/83D4aj4.gif" alt="A cool banner showing a pixel art computer setup"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1JxM/giphy.gif" alt="A cool banner showing a coding animation"/>
 </p>
 
-<h1 align="center">
-  Hi there, I'm Rahul Agnihotri! 👋
-</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there, I'm Rahul Agnihotri! 👋</h1></summary>
+  </ul>
+</div>
+
 <h3 align="center">
   A Full-Stack Developer, Creative Coder & Problem Solver from Kanpur, Uttar Pradesh, India 📍
 </h3>
-
-<p align="center">
-  <br>
-  I'm a passionate developer who loves turning ideas into reality with code. 🚀 
-  I enjoy building things that are fun, useful, and maybe a little bit quirky! ✨
-  <br>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-agnihotri-8b587631a/">
@@ -30,45 +26,36 @@
 
 ---
 
-### Things I'm Passionate About 💡
+### 🙋‍♂️ About Me
 
 * 🔭 &nbsp; I’m currently working on an **AI Based Mock Interview Platform!**
 * 🌱 &nbsp; I’m currently learning and mastering **React/Next.js and Node.js**.
 * 👯 &nbsp; I’m looking to collaborate on **any projects which use Gen AI**.
-* 💬 &nbsp; Ask me about anything, I'm happy to help!
+* 💬 &nbsp; Ask me about **Full-Stack Development, AI, or anything tech-related!**
 * ⚡ &nbsp; Fun fact: **[A fun, cute, or quirky fact about you]**.
 
 ---
 
-### My Tech Toolbox 🛠️
-
-Here are some of the tools and technologies I love to use:
+### 💻 My Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,react,nodejs,nextjs,html,css,mongodb,git,canva" />
+  </a>
 </p>
 
 ---
 
-### My GitHub Stats & Activity 📊
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulagnihotri51&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" alt="Rahul Agnihotri's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulagnihotri51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Rahul Agnihotri's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulagnihotri51&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulagnihotri51&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulagnihotri51&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/github-contribution-grid-snake.svg" alt="My GitHub contributions snake"/>
-</p>
-
----
-<p align="center">
-  Made with ❤️ and a little bit of code.
 </p>
