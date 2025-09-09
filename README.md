@@ -32,7 +32,7 @@
 * 🌱 &nbsp; I’m currently learning and mastering **React/Next.js and Node.js**.
 * 👯 &nbsp; I’m looking to collaborate on **any projects which use Gen AI**.
 * 💬 &nbsp; Ask me about **Full-Stack Development, AI, or anything tech-related!**
-* ⚡ &nbsp; Fun fact: **[A fun, cute, or quirky fact about you]**.
+* ⚡ &nbsp; Fun fact: I only need chai & my laptop to unlock my **BEAST MODE**.
 
 ---
 
