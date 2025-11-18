@@ -59,3 +59,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/github-contribution-grid-snake.svg" alt="My GitHub contributions snake"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/snake.svg" alt="Snake animation"/>
+</p>
+
