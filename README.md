@@ -56,10 +56,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulagnihotri51&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/github-contribution-grid-snake.svg" alt="My GitHub contributions snake"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+    <source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="GitHub Contribution Snake" 
+      src="https://raw.githubusercontent.com/rahulagnihotri51/rahulagnihotri51/output/github-contribution-grid-snake.svg"
+      width="100%" style="max-width: 600px; height: auto; border-radius: 10px;"
+    />
+</picture>
+
 
