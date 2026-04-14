@@ -28,7 +28,7 @@
 
 ### 🙋‍♂️ About Me
 
-* 🔭 &nbsp; I’m currently working on an **AI Based Mock Interview Platform!**
+* 🔭 &nbsp; I have built an **AI Based Mock Interview Platform!**
 * 🌱 &nbsp; I’m currently learning and mastering **React/Next.js and Node.js**.
 * 👯 &nbsp; I’m looking to collaborate on **any projects which use Gen AI**.
 * 💬 &nbsp; Ask me about **Full-Stack Development, AI, or anything tech-related!**
